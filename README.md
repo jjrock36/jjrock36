@@ -1,11 +1,11 @@
 ### Hello there, I'm [Joey](website) 👋
 
-## Front-end Developer, Mountain Biker, Gearhead, and Regional Account Manager!
+## Frontend Developer, Mountain Biker, Gearhead, and Sales Manager!
 - 💻 Currently working on landing a web development job! 🙏🏻
-- 🎓 Recently graduated from Brigham Young University 🌏 majoring in Korean, minoring in Business and Global Business
+- 🎓 Graduated from Brigham Young University 🌏 majoring in Korean, minoring in Business and Global Business
 - 📚 Learned Web Development online through [freecodecamp.org](https://www.freecodecamp.org/), [lynda.com](https://www.lynda.com/), and lots of determination 💪🏻
-- 🏢 At the moment, working as a Regional Account Manager for Nu Skin Enterprises
-- ☀️ 2021 Goals: ☝️ get a job in web development, 🚵 Mountain Bike more, 🔧 work with my hands, Stay alive... 😅
+- 🏢 At the moment, working as a Sales Manager over Canada for Nu Skin Enterprises
+- ☀️ 2022 Goals: ☝️ get a job in web development, 🚵 Mountain Bike more, 🔧 work with my hands, Stay alive... 😅
 
 ### Connect with me:
 [<img align="left" alt="joeyjenson.com" width="25px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/951a0d011f8c832991750c16136f8e260efa60b5/svgs/solid/user-astronaut.svg" />][website]
